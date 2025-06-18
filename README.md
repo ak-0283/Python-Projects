@@ -33,7 +33,7 @@ Perfect for minimalists who love working in the terminal.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/finance-tracker.git
+git clone https://github.com/ak-0283/Python-Projects
 
 cd finance-tracker
 ```
